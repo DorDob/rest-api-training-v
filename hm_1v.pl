@@ -2,7 +2,7 @@ import requests
 import pytest
 
 
-CITY_NAME = "RadomskoAniaWoz"  # podaję nazwę miasta
+CITY_NAME = "WarszawaDorDob"  # podaję nazwę miasta
 
 
 
